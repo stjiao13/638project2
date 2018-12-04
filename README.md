@@ -1,4 +1,4 @@
-## This is the team project of CSCE 638 : QA system with SQuAD dataet
+## This is the team project of CSCE 638 : QA system with SQuAD dataSet
 
 ---
 ## To start with
